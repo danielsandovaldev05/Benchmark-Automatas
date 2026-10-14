@@ -1,4 +1,4 @@
-#Código para realizar el Benchmark de la tarea de la semana 13 de Autómatas y Lenguajes Formales
+# Código para realizar el Benchmark de la tarea de la semana 13 de Autómatas y Lenguajes Formales
 
 Este repositorio se basa en la prueba de ambas tecnologías (Flex y Bison de C y PLY de Python) del procesamiento de 50,000 lineas de código para una simulación de una calculadora aritmética de precedencia estandar.
 
